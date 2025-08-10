@@ -1,2 +1,2 @@
 # Projects-AIML
-This is where my UT Capstone project exists
+This is the repo where my UT Capstone projects exists
